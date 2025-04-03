@@ -1,0 +1,11 @@
+{
+    "name": "Frappe PWA",
+    "short_name": "FrappePWA",
+    "description": "A Progressive Web App built with Frappe",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+
+  }
+  
